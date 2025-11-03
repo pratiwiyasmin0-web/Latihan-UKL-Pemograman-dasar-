@@ -25,7 +25,7 @@ Fungsinya yaitu dapat Menentukan apakah suatu angka tersebut ganjil atau genap.
 Fungsinya yaitu Menghitung sebuah  nilai faktorial dari sebuah bilangan.
 
 **Cara kerjanya :**
-1.User(pengguna) input(masukkan) angka.
+1. User(pengguna) input(masukkan) angka.
 2. Program mengalikan angka dari n hingga 1.
 3. Menampilkan hasil faktorial.
 <img width="1920" height="1080" alt="SoalSedang1" src="https://github.com/user-attachments/assets/5cf997e2-5cbd-426c-973d-e2774e6189bb" />
