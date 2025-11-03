@@ -18,8 +18,8 @@ Fungsinya yaitu dapat Menentukan apakah suatu angka tersebut ganjil atau genap.
 **Cara kerjanya :**
 1. User(pengguna) input(masukkan) angka
 2. Program cek angka % 2
-3. Jika hasil 0 itu adalah genap, sela<img width="1920" height="1080" alt="SoalMudah2" src="https://github.com/user-attachments/assets/3abbaa1f-8e00-4fba-94a2-d19045894123" />
-in maka hasilnya ganjil
+3. Jika hasil 0 itu adalah genap, selain maka hasilnya ganjil
+<img width="1920" height="1080" alt="SoalMudah2" src="https://github.com/user-attachments/assets/3abbaa1f-8e00-4fba-94a2-d19045894123" />
 
 
 ## **Soal Sedang no 1**
