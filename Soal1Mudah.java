@@ -55,4 +55,17 @@ public class Soal1Mudah {
             System.out.println(angka + " adalah bilangan GANJIL\n");
         }
     }
+
     }
+
+## **Soal Mudah no 1**
+**Fungsi :**
+fungsinya ini dapat Menghitung total biaya pengiriman sebuah paket dengan berdasarkan berat, jarak, dan volume paket.
+
+**Cara kerjanya :**
+1. User(pengguna) input(masukkan) berat, jarak, panjang, lebar, tinggi
+2. Program hitung volume
+3. Menentukan tarif per kg sesuai jarak
+4. Tambah biaya ekstra jika volumenya > 100 cm³
+5. Tampilkan total biaya
+<img width="1920" height="1080" alt="SoalMudah1" src="https://github.com/user-attachments/assets/146e5728-7a29-4248-9893-97112a9ad137" />
