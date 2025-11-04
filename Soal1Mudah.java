@@ -44,8 +44,7 @@ public class Soal1Mudah {
         System.out.println("Volume Paket       : " + volume + " cm³");
         System.out.println("Biaya per Kg       : Rp " + biayaPerKg);
         System.out.println("Maka Total Biaya Kirim  : Rp " + total + "\n");
-       
+    }
     }
 
-    }
 
