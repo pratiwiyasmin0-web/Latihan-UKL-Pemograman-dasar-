@@ -44,16 +44,8 @@ public class Soal1Mudah {
         System.out.println("Volume Paket       : " + volume + " cm³");
         System.out.println("Biaya per Kg       : Rp " + biayaPerKg);
         System.out.println("Maka Total Biaya Kirim  : Rp " + total + "\n");
-        // jawaban 2
-        System.out.println("\n");
-        System.out.println("cek genap/ganjil");
-        System.out.print("Masukkan angka: ");
-        int angka = masukan.nextInt();
-        if (angka % 2 == 0) {
-            System.out.println(angka + " adalah bilangan GENAP\n");
-        } else {
-            System.out.println(angka + " adalah bilangan GANJIL\n");
-        }
+       
     }
 
     }
+
